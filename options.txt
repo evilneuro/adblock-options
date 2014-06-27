@@ -1,0 +1,9 @@
+# dailymail.co.uk - because fuck The Daily Mail
+*.dailymail.co.uk
+
+# Stupid "Around the Web" related item boxes on stupid websites
+# Could put Outbrain here too, but they tend to host site internal links too :(
+*.nrelate.com
+*.nrcdn.com
+*.taboola.com
+*.zergnet.com
