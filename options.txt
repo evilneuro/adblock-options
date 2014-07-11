@@ -1,3 +1,6 @@
+# Useful exclusions
+@@||console.aws.amazon.com/$document
+
 # dailymail.co.uk - because fuck The Daily Mail
 *.dailymail.co.uk
 
